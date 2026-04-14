@@ -1,0 +1,167 @@
+[
+  {
+    "id": "severe_bleeding",
+    "name": "Severe Bleeding",
+    "keywords": ["hemorrhage", "deep cut", "heavy bleeding", "arterial bleed", "wound"],
+    "first_aid_steps": [
+      "Call emergency services immediately if bleeding is spurting or cannot be controlled.",
+      "Apply firm, direct pressure to the wound using a clean cloth or sterile gauze.",
+      "If the cloth soaks through, do not remove it; place another cloth on top and continue pressure.",
+      "Maintain pressure until help arrives or the bleeding stops completely.",
+      "If the limb is affected and pressure fails, consider a professional tourniquet if trained."
+    ],
+    "red_flags": ["Blood spurting from the wound", "Bleeding that does not stop after 10 minutes of direct pressure", "Signs of shock (pale skin, rapid pulse, confusion)", "Debris embedded in the wound"],
+    "doctor_consult": "Seek emergency medical care immediately for any uncontrolled or heavy bleeding.",
+    "home_remedies": []
+  },
+  {
+    "id": "minor_cuts",
+    "name": "Minor Cuts and Scrapes",
+    "keywords": ["scratch", "abrasion", "laceration", "small wound", "cut"],
+    "first_aid_steps": [
+      "Wash your hands thoroughly before touching the wound to prevent infection.",
+      "Rinse the wound with clean, running water to remove dirt and debris.",
+      "Apply a thin layer of antibiotic ointment or petroleum jelly.",
+      "Cover the area with a sterile bandage or gauze to keep it clean.",
+      "Change the bandage daily or whenever it becomes wet or dirty."
+    ],
+    "red_flags": ["Signs of infection (redness, warmth, pus, swelling)", "The cut is deep enough to see fat or muscle", "The wound was caused by a rusty or dirty object"],
+    "doctor_consult": "See a doctor if the wound shows signs of infection or if you haven't had a tetanus shot in over 10 years.",
+    "home_remedies": ["Honey (medical grade) for its antibacterial properties", "Aloe vera to soothe the surrounding skin"]
+  },
+  {
+    "id": "thermal_burns",
+    "name": "Thermal Burns (First and Second Degree)",
+    "keywords": ["scald", "fire burn", "hot water burn", "skin burn", "heat burn"],
+    "first_aid_steps": [
+      "Cool the burn immediately under cool (not cold) running water for at least 10–20 minutes.",
+      "Remove jewelry or tight clothing near the burned area before swelling begins.",
+      "Do not break any blisters that may form.",
+      "Apply a light, loose sterile dressing to protect the skin.",
+      "Take over-the-counter pain relievers if needed for discomfort."
+    ],
+    "red_flags": ["Burn involves the face, hands, feet, or genitals", "Skin appears charred, white, or leathery (3rd degree)", "The burn is larger than 3 inches in diameter"],
+    "doctor_consult": "Consult a doctor for all second-degree burns or if the pain increases after 24 hours.",
+    "home_remedies": ["Aloe vera gel (pure) to soothe minor first-degree burns", "Cool compress"]
+  },
+  {
+    "id": "heat_stroke",
+    "name": "Heat Stroke",
+    "keywords": ["hyperthermia", "overheating", "high fever", "sunstroke", "heat exhaustion"],
+    "first_aid_steps": [
+      "Call emergency services immediately as this is a life-threatening emergency.",
+      "Move the person to a cool, shaded, or air-conditioned environment.",
+      "Cool the person quickly using a cool bath, spray with a hose, or damp sheets.",
+      "Place ice packs or cool wet towels on the neck, armpits, and groin.",
+      "Do not give the person fluids if they are unconscious or vomiting."
+    ],
+    "red_flags": ["Body temperature above 104°F (40°C)", "Confusion, agitation, or slurred speech", "Loss of consciousness or seizures", "Hot, dry skin or heavy sweating"],
+    "doctor_consult": "Always require immediate emergency hospital treatment for suspected heat stroke.",
+    "home_remedies": []
+  },
+  {
+    "id": "snake_bite",
+    "name": "Snake Bite",
+    "keywords": ["venomous bite", "viper", "cobra", "fang marks", "snake attack"],
+    "first_aid_steps": [
+      "Move away from the snake's striking distance and call emergency services.",
+      "Keep the person calm and still to slow the spread of venom.",
+      "Keep the bitten limb at or slightly below the level of the heart.",
+      "Clean the wound gently with soap and water; do not flush with high pressure.",
+      "Remove any rings or restrictive clothing, as the area will likely swell."
+    ],
+    "red_flags": ["Fang marks", "Severe pain and swelling at the site", "Difficulty breathing", "Nausea, vomiting, or blurred vision"],
+    "doctor_consult": "Seek emergency care immediately; do not wait for symptoms to appear. Do not use a tourniquet or attempt to suck out venom.",
+    "home_remedies": []
+  },
+  {
+    "id": "insect_sting",
+    "name": "Insect Sting",
+    "keywords": ["bee sting", "wasp sting", "hornet", "allergic reaction", "bug bite"],
+    "first_aid_steps": [
+      "Remove the stinger by scraping it with a flat object like a credit card (don't use tweezers).",
+      "Wash the area with soap and water.",
+      "Apply a cold pack to reduce pain and swelling.",
+      "Elevate the affected limb if possible.",
+      "Monitor for signs of a severe allergic reaction (anaphylaxis)."
+    ],
+    "red_flags": ["Difficulty breathing or wheezing", "Swelling of the lips, tongue, or throat", "Hives or a widespread rash", "Faintness or dizziness"],
+    "doctor_consult": "Call emergency services immediately if the person has a known allergy or shows signs of anaphylaxis.",
+    "home_remedies": ["Baking soda paste to neutralize acidity", "Calamine lotion to reduce itching"]
+  },
+  {
+    "id": "choking",
+    "name": "Choking (Adult/Child)",
+    "keywords": ["airway obstruction", "cannot breathe", "strangle", "heimlich maneuver"],
+    "first_aid_steps": [
+      "Ask 'Are you choking?' If they can cough or speak, encourage them to keep coughing.",
+      "If they cannot breathe, give 5 back blows between the shoulder blades with the heel of your hand.",
+      "If the object isn't dislodged, perform 5 abdominal thrusts (Heimlich maneuver).",
+      "Repeat the cycle of 5 back blows and 5 abdominal thrusts until the object is forced out.",
+      "If the person becomes unconscious, lower them to the ground and start CPR."
+    ],
+    "red_flags": ["Inability to speak, cry, or cough forcefully", "Skin turning blue (cyanosis)", "Clutched throat (the universal sign of choking)"],
+    "doctor_consult": "Seek medical evaluation after the object is cleared to ensure no internal damage or remaining fragments.",
+    "home_remedies": []
+  },
+  {
+    "id": "fainting",
+    "name": "Fainting (Syncope)",
+    "keywords": ["passed out", "loss of consciousness", "lightheaded", "blackout"],
+    "first_aid_steps": [
+      "Lay the person down on their back.",
+      "Elevate the person's legs about 12 inches above heart level if there are no injuries.",
+      "Loosen belts, collars, or other restrictive clothing.",
+      "Check for breathing; if they aren't breathing, begin CPR and call 911.",
+      "If they fainted due to heat, move them to a cool place and offer sips of water when conscious."
+    ],
+    "red_flags": ["Fainting associated with chest pain", "The person does not regain consciousness within one minute", "Fainting while sitting or lying down", "Irregular heartbeat"],
+    "doctor_consult": "See a doctor to rule out underlying heart issues, especially if fainting occurs during exercise.",
+    "home_remedies": ["Drinking water and electrolyte fluids if caused by dehydration"]
+  },
+  {
+    "id": "electric_shock",
+    "name": "Electric Shock",
+    "keywords": ["electrocuted", "electrical burn", "power line", "wire shock"],
+    "first_aid_steps": [
+      "Do not touch the person if they are still in contact with the electrical source.",
+      "Turn off the source of electricity if possible, or move the source away using a dry wooden stick.",
+      "Call emergency services immediately.",
+      "Check for breathing and a pulse; start CPR if necessary.",
+      "Cover any burned areas with a sterile gauze bandage."
+    ],
+    "red_flags": ["Cardiac arrest or irregular heart rhythm", "Severe burns at entry and exit points", "Muscle pain or contractions", "Seizures"],
+    "doctor_consult": "All victims of significant electric shock should be evaluated in an emergency room, as internal damage may not be visible.",
+    "home_remedies": []
+  },
+  {
+    "id": "sprain_fracture",
+    "name": "Sprains and Fractures",
+    "keywords": ["broken bone", "twisted ankle", "joint injury", "swollen limb"],
+    "first_aid_steps": [
+      "Rest the injured limb and avoid putting weight on it.",
+      "Ice the area using a cold pack wrapped in a towel for 15–20 minutes at a time.",
+      "Compress the injury with an elastic bandage to reduce swelling.",
+      "Elevate the injured part above the level of the heart.",
+      "Splint the limb in the position found if you must move the person."
+    ],
+    "red_flags": ["Limb is visibly deformed or out of place", "Bone is protruding through the skin", "Inability to move the joint or bear weight", "Numbness or tingling in the injured area"],
+    "doctor_consult": "Consult a doctor for an X-ray if there is severe pain, deformity, or inability to walk.",
+    "home_remedies": ["Epsom salt soak (only after the first 48 hours) to reduce residual muscle soreness"]
+  },
+  {
+    "id": "food_poisoning",
+    "name": "Food Poisoning",
+    "keywords": ["nausea", "vomiting", "diarrhea", "stomach flu", "contaminated food"],
+    "first_aid_steps": [
+      "Stop eating and drinking for a few hours to let the stomach settle.",
+      "Sip small amounts of water, clear broth, or electrolyte drinks to stay hydrated.",
+      "Gradually reintroduce bland foods like crackers, toast, or rice.",
+      "Avoid dairy, caffeine, alcohol, and fatty foods until symptoms pass.",
+      "Rest as much as possible to allow the body to recover."
+    ],
+    "red_flags": ["High fever (above 102°F)", "Bloody stools or vomit", "Frequent vomiting that prevents keeping liquids down", "Signs of severe dehydration (no urination, extreme thirst)"],
+    "doctor_consult": "Seek medical help if symptoms last more than 3 days or if the patient is an infant or elderly.",
+    "home_remedies": ["Ginger tea to reduce nausea", "Peppermint oil/tea for stomach cramps"]
+  }
+]
