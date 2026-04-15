@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+#Large ML model
+app/src/main/assets/model.bin
